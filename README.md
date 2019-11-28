@@ -7,14 +7,12 @@
 Integrantes - (Usuarios Github:):
 --
 
-1.- <b>nombre_completo1</b><br>
+1.- <b>Natalia Sotelo Redhead</b><br>
     <i>usuario_github1</i>
 
-2.- <b>nombre_completo2</b><br>
+2.- <b>Maria Fernanda Mendoza</b><br>
     <i>usuario_github2</i>
 
-3.- <b>nombre_completo3</b><br>
-    <i>usuario_github3</i>
 
 Instrucciones:
 --
